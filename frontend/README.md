@@ -14,7 +14,6 @@ Warning: **client only**.
   
 
 ## Installation
-````
 Install local project package
 ````
 npm install --legacy-peer-deps
@@ -24,6 +23,7 @@ You can see current dependencies in [package.json](package.json) file.
 ## Development server
 
 Run `npx ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 Answer `N` to the following question:
 ````
 ? Would you like to share pseudonymous usage data about this project with the Angular Team
