@@ -22,8 +22,14 @@ cd frontend
 ### Dependencies (Global)
 ```sh
 node 18+
-npm 10+
+npm 8+
 ```
+check with 
+```sh
+node --version
+npm -version
+```
+to see what version you currently have
 ### Spin up the development server frontend with `npm` and `npx`
 Install local project package
 ````
