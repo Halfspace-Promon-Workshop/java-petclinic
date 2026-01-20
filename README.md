@@ -3,7 +3,7 @@ Halfspace workshop for Promon
 
 # How to run
 ## Backend
-### Dependencies
+### Dependencies (Global)
 ```sh
 Java 17+
 ```
@@ -19,16 +19,17 @@ So open a new terminal and cd to the frontend folder
 ```sh
 cd frontend
 ```
-### Dependencies
+### Dependencies (Global)
 ```sh
-
+node 18+
+npm 10+
 ```
 ### Spin up the development server frontend with `npm` and `npx`
 Install local project package
 ````
 npm install --legacy-peer-deps
 ````
-You can see current dependencies in [package.json](package.json) file.
+You can see current local dependencies in [package.json](package.json) file.
 
 Run 
 ````
